@@ -1,0 +1,33 @@
+D:\Projects\VS Projects\Graphs\Graphs\bin\Debug\Graphs.exe.config
+D:\Projects\VS Projects\Graphs\Graphs\bin\Debug\Graphs.exe
+D:\Projects\VS Projects\Graphs\Graphs\bin\Debug\Graphs.pdb
+D:\Projects\VS Projects\Graphs\Graphs\obj\Debug\Graphs.csprojAssemblyReference.cache
+D:\Projects\VS Projects\Graphs\Graphs\obj\Debug\MainWindow.g.cs
+D:\Projects\VS Projects\Graphs\Graphs\obj\Debug\App.g.cs
+D:\Projects\VS Projects\Graphs\Graphs\obj\Debug\Graphs_MarkupCompile.cache
+D:\Projects\VS Projects\Graphs\Graphs\obj\Debug\Graphs_MarkupCompile.lref
+D:\Projects\VS Projects\Graphs\Graphs\obj\Debug\MainWindow.baml
+D:\Projects\VS Projects\Graphs\Graphs\obj\Debug\Graphs.g.resources
+D:\Projects\VS Projects\Graphs\Graphs\obj\Debug\Graphs.Properties.Resources.resources
+D:\Projects\VS Projects\Graphs\Graphs\obj\Debug\Graphs.csproj.GenerateResource.cache
+D:\Projects\VS Projects\Graphs\Graphs\obj\Debug\Graphs.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Graphs\Graphs\obj\Debug\Graphs.exe
+D:\Projects\VS Projects\Graphs\Graphs\obj\Debug\Graphs.pdb
+D:\Projects\VS Projects\Graphs\Graphs\obj\Debug\GraphNode.g.cs
+D:\Projects\VS Projects\Graphs\Graphs\obj\Debug\GraphNode.baml
+C:\Users\gnutenko_md\Desktop\Graphs\Graphs\bin\Debug\Graphs.exe.config
+C:\Users\gnutenko_md\Desktop\Graphs\Graphs\obj\Debug\Graphs.exe
+C:\Users\gnutenko_md\Desktop\Graphs\Graphs\obj\Debug\Graphs.pdb
+C:\Users\gnutenko_md\Desktop\Graphs\Graphs\bin\Debug\Graphs.exe
+C:\Users\gnutenko_md\Desktop\Graphs\Graphs\bin\Debug\Graphs.pdb
+C:\Users\gnutenko_md\Desktop\Graphs\Graphs\obj\Debug\Graphs.csprojResolveAssemblyReference.cache
+C:\Users\gnutenko_md\Desktop\Graphs\Graphs\obj\Debug\GraphNode.g.cs
+C:\Users\gnutenko_md\Desktop\Graphs\Graphs\obj\Debug\MainWindow.g.cs
+C:\Users\gnutenko_md\Desktop\Graphs\Graphs\obj\Debug\App.g.cs
+C:\Users\gnutenko_md\Desktop\Graphs\Graphs\obj\Debug\Graphs_MarkupCompile.cache
+C:\Users\gnutenko_md\Desktop\Graphs\Graphs\obj\Debug\Graphs_MarkupCompile.lref
+C:\Users\gnutenko_md\Desktop\Graphs\Graphs\obj\Debug\GraphNode.baml
+C:\Users\gnutenko_md\Desktop\Graphs\Graphs\obj\Debug\MainWindow.baml
+C:\Users\gnutenko_md\Desktop\Graphs\Graphs\obj\Debug\Graphs.g.resources
+C:\Users\gnutenko_md\Desktop\Graphs\Graphs\obj\Debug\Graphs.Properties.Resources.resources
+C:\Users\gnutenko_md\Desktop\Graphs\Graphs\obj\Debug\Graphs.csproj.GenerateResource.Cache
